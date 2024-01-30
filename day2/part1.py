@@ -1,4 +1,4 @@
-file = open("/workspaces/AoC_2015/day2/list.txt", "r")
+file = open("list.txt", "r")
 
 ans = 0
 

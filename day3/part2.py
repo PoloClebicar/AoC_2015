@@ -1,4 +1,4 @@
-file = open("/workspaces/AoC_2015/day3/list.txt", "r")
+file = open("list.txt", "r")
 
 positionList = []
 positionA = [0,0]
